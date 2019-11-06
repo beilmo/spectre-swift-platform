@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SpectrePresentation",
+        "repositoryURL": "https://github.com/beilmo/spectre-swift-presentation",
+        "state": {
+          "branch": null,
+          "revision": "0f1153002515f40978a98a90b1b6839d77c85602",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
